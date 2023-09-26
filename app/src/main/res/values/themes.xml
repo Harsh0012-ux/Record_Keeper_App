@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.RecordKeeper" parent="Theme.Material3.DayNight">
+        <!-- Customize your theme attributes here -->
+    </style>
+
+    <!-- Customize your light theme here. -->
+
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+</resources>
